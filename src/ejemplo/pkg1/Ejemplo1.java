@@ -17,7 +17,7 @@ public class Ejemplo1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("odioi git");
-        System.out.print("camilo lo volvio a hacer");
+        System.out.println("camilo lo volvio a hacer");
     }
     
 }
